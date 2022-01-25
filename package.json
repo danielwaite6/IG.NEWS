@@ -22,7 +22,7 @@
     "stripe": "^8.195.0"
   },
   "devDependencies": {
-    "@types/next-auth": "^3.15.0",
+    "@types/next-auth": "3.7.1",
     "@types/node": "^16.11.11",
     "@types/prismic-dom": "^2.1.1",
     "@types/react": "^17.0.37",
